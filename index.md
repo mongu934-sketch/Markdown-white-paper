@@ -3,12 +3,12 @@
 The Category data table contains posts from the third-party category sample and ranks them by their amount of replies and contains entities with their problem states derived from subject lines–See section 1, and the entity data table also ranks posts from the third-Party Software entity results by their amount of replies which contains entities with their problem states derived from subject lines–See section 2. The logic tree from the entity data sample organizes each entity according to their problem states and expands into branches–See section 3.
 Which problem state appears the most in the category data table third-party sample and the entity third-party sample across all entities? The category data table’s most frequent problem state is installation which contains 6 entities: OpenShot 3.0, Kwin, Davinci Resolve, Manjaro, AIO, Sudo. While the rest of the entities only experience a unique problem state. And the entity data table and logic tree also experience one most frequent problem state which is loading with 3 entities: AppImage, AppImage Launcher and Kioslave5. But other problem states only experienced one entity.
        *Reply counts register discussion activity and may serve as provisional indicators of user interest or support demand. They do not independently establish the frequency, severity, or technical significance of reported problems. The priorities identified in this analysis are therefore candidates for further investigation, not recommendations for resource allocation. Engineering expertise and operational evidence are required to assess their significance and determine appropriate responses.*
+
 ## SECTION1: Installation is the most frequent problem mentioned in six entities: Openshot, Kwin, Davinci Resolve, Manjaro, AIO and Sudo in the category third-party software sample.
 
 The category data table ranks ten posts from the third-party category sample by the highest number of replies containing named entities and problem states derived from subject lines–See TAB1. Installation is the most frequent problem state in the category third-party sample but which entities experience it the most?
 
 The most frequent problem state in category third-party software is installation with entities: OpenShot 3.0, Kwin, Davinci Resolve, Manjaro, AIO, Sudo.
-
 
 
   | sample\_number | topic | replies | views | tags | Named Entity 1 | Named Entity 2 | Problem |
@@ -27,7 +27,6 @@ The most frequent problem state in category third-party software is installation
 **TAB1 Third-Party Software category sample results ranked by number of replies, with named entities and problem states derived from subject lines.**
 
  Installation is the dominant problem state in the category third-party software sample, because it holds six of the twelve entities, and because no other state holds more than three–See DIA1. Followed by the problem state of loading which contains only two entities: AppImage and Shotcut. Most of the entities were mentioned once and mainly experienced one type of issue.
-
   
 ├── Third-Party Software Entity Search Results/  
 │   ├── Loading/  
@@ -52,8 +51,6 @@ The most frequent problem state in category third-party software is installation
 
 The entity table ranks ten posts from the Third-Party Software entity results by highest replies containing named entities and problem states derived from subject lines–See TAB1.
 Loading was the most common problem state, reported in five of the ten posts and across three entities: AppImage, AppImageLauncher and kioslave5. How do software loading issues compare to other reported technical problems across the ten posts?Loading was the most common problem state, in five of the ten posts and across three entities: AppImage, AppImageLauncher and kioslave5, the other problem state involved one entity.
-
- 
   
 | sample\_number | topic | replies | views | tags | Named Entity 1 | Named Entity 2 | Problem |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -67,16 +64,12 @@ Loading was the most common problem state, reported in five of the ten posts and
 | 19 | Appimagelauncher not starting | 0 | 2497 | gnome; appimage | Appimagelauncher |  | Loading / startup |
 | 10 | AppImage can't find hicolor icon theme | 0 | 590 | mariadb | AppImage |  | Recognition / detection |
 | 12 | Can't open appimage (memory violation or kioslave5 issues) | 0 | 607 | mariadb; mysql | AppImage | kioslave5 | Loading / startup |
-  
-
-TAB1 Third-Party Software entity sample results ranked by number of replies, with named entities and problem states derived from subject lines.
-
+  **TAB1 Third-Party Software entity sample results ranked by number of replies, with named entities and problem states derived from subject lines.**
 
 ## SECTION 3: Loading is the most frequent problem state in AppImage, Kioslave5, AppImage launcher in entity third-party software samples.
 
 Each entity derived from the entity data sample was organized according to their problem states into a logic tree–See DIA1. Loading is the biggest problem occurring in three entities: AppImage, Kioslave5 and AppImage launcher but how do reported technical problems vary across other identified software entities? Loading is the biggest problem occurring in three entities: AppImage, Kioslave5 and AppImage launcher. AppImage is the only entity that experiences the most problem states such as loading, crashing and detection. Musescore, Idmalloc and Openshot 3.0 only experienced one unique problem.
-
-  
+ 
 ├── Third-Party Software Entity Search Results/  
 │   └── Loading/  
 │       ├── AppImage  
