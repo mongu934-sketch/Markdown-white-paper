@@ -52,7 +52,7 @@ The most frequent problem state in category third-party software is installation
 The entity table ranks ten posts from the Third-Party Software entity results by highest replies containing named entities and problem states derived from subject lines–See TAB1.
 Loading was the most common problem state, reported in five of the ten posts and across three entities: AppImage, AppImageLauncher and kioslave5. How do software loading issues compare to other reported technical problems across the ten posts?Loading was the most common problem state, in five of the ten posts and across three entities: AppImage, AppImageLauncher and kioslave5, the other problem state involved one entity.
   
-| sample\_number | topic | replies | views | tags | Named Entity 1 | Named Entity 2 | Problem |
+  | sample\_number | topic | replies | views | tags | Named Entity 1 | Named Entity 2 | Problem |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | 7 | Appimage \- error while loading shared libraries: libwebkit2gtk-4.0.so.37 | 16 | 9092 | mariadb | AppImage |  | Loading / startup |
 | 3 | AppImages kann ich nicht mehr öffnen | 14 | 333 | mariadb | AppImage |  | Loading / startup |
