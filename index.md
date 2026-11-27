@@ -64,6 +64,7 @@ Loading was the most common problem state, reported in five of the ten posts and
 | 19 | Appimagelauncher not starting | 0 | 2497 | gnome; appimage | Appimagelauncher |  | Loading / startup |
 | 10 | AppImage can't find hicolor icon theme | 0 | 590 | mariadb | AppImage |  | Recognition / detection |
 | 12 | Can't open appimage (memory violation or kioslave5 issues) | 0 | 607 | mariadb; mysql | AppImage | kioslave5 | Loading / startup |
+
   **TAB1 Third-Party Software entity sample results ranked by number of replies, with named entities and problem states derived from subject lines.**
 
 ## SECTION 3: Loading is the most frequent problem state in AppImage, Kioslave5, AppImage launcher in entity third-party software samples.
